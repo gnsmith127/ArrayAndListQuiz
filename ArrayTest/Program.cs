@@ -201,7 +201,7 @@ namespace ArrayTest
             int score = (int)((time * .4) + (wrongCount * .6));
 
             Console.WriteLine("Your Score:");
-            Console.WriteLine(score);
+            Console.WriteLine(score); // My score was 300.
             Console.ReadLine();
 
         }
